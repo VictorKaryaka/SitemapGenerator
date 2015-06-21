@@ -29,7 +29,7 @@
 
 Указанная выше структура представляет собой следующий список URL:
 
-site.ru/ /n
+site.ru/ 
 site.ru/first/
 site.ru/first/a1.html
 site.ru/first/a2.html
