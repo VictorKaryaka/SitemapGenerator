@@ -1,5 +1,5 @@
 # SitemapGenerator
-Генератор файла sitemap.xml
+Генератор файла sitemap.xml. 
 Необходимо сгенерировать файл Sitemap (http://www.sitemaps.org/ru/protocol.html, настройки времени и приоритет для каждого элемента
 можно выставить произвольно) на основе структуры данных, получаемой с удаленного веб-ресурса (http://example.com/sitemap-data/) в формате JSON.
 Удаленный сайт (http://example.com/sitemap-data/) имеет базовую HTTP авторизацию (например, user=demo и password=123).
